@@ -8,8 +8,8 @@
 //             System.out.println();
 //         }
 //     }
-// }
-
+// }yfvtdc
+// ihihihihjhhji
 
 public class NumberPattern {
     public static void main(String[] args) {
